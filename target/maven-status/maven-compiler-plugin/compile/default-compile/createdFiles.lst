@@ -1,0 +1,4 @@
+com\sofzenix\crm\repository\TicketDao.class
+com\sofzenix\crm\model\SupportTeam.class
+com\sofzenix\crm\model\Ticket.class
+com\sofzenix\crm\model\Status.class
